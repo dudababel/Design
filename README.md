@@ -12,3 +12,13 @@
 <br>
 <h3> Re-design conceitual que identifica deficiências em experiências do usúario, aplicados a uma tela mais limpa. </h3>
 
+<hr>
+<h1> Faculdade Unimed </h1>
+<br>
+<h3> App Faculdade Unimed - Desenvolvi de todo o UI/UX do app. Teste com os usuários para validação das funcionalidades e muito mais. Para acesso ao app, baixe o app no AppStore ou Google Play.. </h3>
+
+<hr>
+<h1> App Unimed </h1>
+<br>
+<h3> App Unimed - Desenvolvi novas funcinalidades para o app. Teste com os usuários para validação das funcionalidades e muito mais. Para acesso ao app, baixe o app no AppStore ou Google Play. </h3>
+
